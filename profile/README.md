@@ -13,3 +13,6 @@ Go Learning Land (GLL) is a non-profit organization that helps other people to l
 
 # How to mint GLL NFTs?
 
+<div align="center"><p><img src="https://github.com/Go-Learning-Land/.github/blob/main/img/claim.png"  /></p></center></div>
+
+Go to [GLL website](https://golearningland.com/) and fill out the [github username](https://stackoverflow.com/questions/19077138/how-to-find-my-github-username-so-that-i-can-be-found-via-the-url#:~:text=The%20one%20displayed%20in%20the,URLs%20of%20your%20GitHub%20repositories.) and [metamask address.](https://metamask.io/faqs/) 
