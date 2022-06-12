@@ -19,3 +19,9 @@ Go Learning Land (GLL) is a non-profit organization that helps other people to l
 2. Go to [Go Learning Archive](https://github.com/Go-Learning-Land/Go-Learning-Archive) and star the repo. :stars:
 3. Go to [GLL website](https://golearningland.com/) and fill out the [github username](https://stackoverflow.com/questions/19077138/how-to-find-my-github-username-so-that-i-can-be-found-via-the-url#:~:text=The%20one%20displayed%20in%20the,URLs%20of%20your%20GitHub%20repositories.) and [metamask address.](https://metamask.io/faqs/) 
 4. Wait for minting state. Follow us on [Twitter](https://twitter.com/GoLearningLand)
+
+
+# Inspired by [Renee French](http://reneefrench.blogspot.com/)
+The Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/)
+The design is licensed under the Creative Commons 3.0 Attributions license.
+Read this article for more [details](https://blog.golang.org/gopher)
